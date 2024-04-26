@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Intern_Assignment/static/css/main.8b577f82.css",
+    "main.js": "/Intern_Assignment/static/js/main.e0e62b30.js",
+    "static/js/453.ed3810f9.chunk.js": "/Intern_Assignment/static/js/453.ed3810f9.chunk.js",
+    "static/media/seclogo.png": "/Intern_Assignment/static/media/seclogo.28590ce6ba856e025204.png",
+    "static/media/Logo.png": "/Intern_Assignment/static/media/Logo.119ec9637be890eda03e.png",
+    "static/media/volu.png": "/Intern_Assignment/static/media/volu.f3b17aaf28d28c719143.png",
+    "static/media/bulb.png": "/Intern_Assignment/static/media/bulb.d6cf4b4741f8b544fd0d.png",
+    "static/media/right.png": "/Intern_Assignment/static/media/right.4ffea638b338c28a3d04.png",
+    "static/media/left.png": "/Intern_Assignment/static/media/left.ecf09ce1b5f263e116c5.png",
+    "static/media/relod.png": "/Intern_Assignment/static/media/relod.6f4c7f4fa9a17cb65454.png",
+    "static/media/plus.png": "/Intern_Assignment/static/media/plus.3f2823f7f5eb9a5c5db8.png",
+    "index.html": "/Intern_Assignment/index.html",
+    "main.8b577f82.css.map": "/Intern_Assignment/static/css/main.8b577f82.css.map",
+    "main.e0e62b30.js.map": "/Intern_Assignment/static/js/main.e0e62b30.js.map",
+    "453.ed3810f9.chunk.js.map": "/Intern_Assignment/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b577f82.css",
+    "static/js/main.e0e62b30.js"
+  ]
+}
